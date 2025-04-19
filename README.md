@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeternitas008&layout=compact&theme=radical)
 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=aeternitas008&theme=dark)](https://github.com/aeternitas008/leetcode-stats)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/aeternitas008?theme=dark&font=Cambo&ext=contest)](https://leetcode.com/aeternitas008)
 
 ---
 
