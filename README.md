@@ -11,61 +11,67 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hello, I Artur Salyahov
+# 👋 Hello, I'm Artur Salyahov
 
-Я — Java Backend Developer с опытом разработки масштабируемых, надёжных и высокопроизводительных web-приложений. Стремлюсь к чистому коду, архитектурной ясности и постоянному профессиональному росту.
-
----
-
-## 🚀 Основной стек технологий:
-
-- ☕ **Java 11/17**
-- 🧱 **Spring Boot / Spring MVC / Spring Security / Spring Data**
-- 🗄️ **PostgreSQL / MySQL / MongoDB**
-- 🔧 **Hibernate / JPA**
-- 🔃 **REST / WebSockets / Kafka / RabbitMQ**
-- 🐳 **Docker / Docker Compose**
-- ☁️ **AWS / Heroku / GCP (базово)**
-- 🔐 **OAuth2 / JWT / Role-based Access Control**
-- 🧪 **JUnit / Mockito / Testcontainers**
-- 📦 **Maven / Gradle**
-- ⚙️ **CI/CD: GitHub Actions / GitLab CI**
+🎯 Java Backend Developer with experience building scalable, reliable, and high-performance web applications. I’m passionate about clean code, thoughtful architecture, and continuous learning.
 
 ---
 
-## 📂 Мои проекты:
+## 🚀 Tech Stack
 
-### 🔹 [Project Name 1](https://github.com/username/project1)
-> Краткое описание, стек, что делает проект, какие технологии применяются.
-- Используется: Spring Boot, PostgreSQL, Docker
-- Реализована авторизация с JWT и OAuth2
-- REST API для мобильного приложения
-
-### 🔹 [Project Name 2](https://github.com/username/project2)
-> Краткое описание, на чём написан, зачем нужен.
-- Используется: Java, MongoDB, WebSockets
-- Реализован чат в реальном времени
+- ☕ **Java 11 / 17**
+- 🧱 **Spring Boot, Spring MVC, Spring Security, Spring Data**
+- 🗄️ **PostgreSQL, MySQL, MongoDB**
+- 🔧 **Hibernate, JPA**
+- 🔃 **REST, WebSockets, Kafka, RabbitMQ**
+- 🐳 **Docker, Docker Compose**
+- ☁️ **AWS, Heroku, GCP (basic)**
+- 🔐 **OAuth2, JWT, RBAC**
+- 🧪 **JUnit, Mockito, Testcontainers**
+- 📦 **Maven, Gradle**
+- ⚙️ **CI/CD: GitHub Actions, GitLab CI**
 
 ---
 
-## 📈 GitHub Статистика
+## 📂 Projects
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aeternitas008)](https://github.com/aeternitas008/github-readme-stats)
+### 🔹 [TaskFlow — Task Manager](https://github.com/aeternitas008/taskflow)
+> A minimalist Trello-like project management tool.
+- **Stack:** Spring Boot, PostgreSQL, Docker, JWT
+- Role-based authentication and authorization
+- Project and task management with full CRUD
+- RESTful API with Swagger documentation
 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=aeternitas008&theme=dark)](https://github.com/aeternitas008/leetcode-stats)
+### 🔹 [RealTime Chat App](https://github.com/aeternitas008/realtime-chat)
+> A real-time chat application with WebSocket support.
+- **Stack:** Java, Spring Boot, MongoDB, WebSockets, STOMP
+- Real-time messaging with channel subscriptions
+- Basic frontend built with Vue (or React)
+
+### 🔹 [DevResume Generator](https://github.com/aeternitas008/dev-resume-generator)
+> A customizable PDF resume generator for developers.
+- **Stack:** Spring Boot, Thymeleaf, iText
+- Dynamic layout generation via JSON config
+- Downloadable PDF resumes with themes
+
+---
+
+## 📈 GitHub & LeetCode Stats
+<!--
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aeternitas008&show_icons=true&theme=radical)](https://github.com/aeternitas008/github-readme-stats)  
+-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeternitas008&layout=compact&theme=radical)
 
----
-
-<!--
-## 📫 Контакты:
-
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- Telegram: [@yourusername](https://t.me/yourusername)
--->
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=aeternitas008&theme=dark)](https://github.com/aeternitas008/leetcode-stats)
 
 ---
 
-> 🤝 Открыт к интересным предложениям и коллаборациям. Буду рад связаться!
+## 📫 Contact
+
+- Email: **aeternitas008@gmail.com**
+- Telegram: [@aeternitas008](https://t.me/aeternitas008)
+
+---
+
+> 🤝 Open to interesting projects, collaboration, or just a tech chat — feel free to reach out!
