@@ -55,8 +55,11 @@ Here are some ideas to get you started:
 - Downloadable PDF resumes with themes
 
 ---
-
+<!--
 ## 📈 GitHub & LeetCode Stats
+-->
+## 📈 LeetCode Stats
+
 <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=aeternitas008&show_icons=true&theme=radical)](https://github.com/aeternitas008/github-readme-stats)  
 -->
