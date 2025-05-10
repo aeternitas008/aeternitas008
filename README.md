@@ -19,15 +19,9 @@ Here are some ideas to get you started:
 
 ## 🚀 Tech Stack
 
-- ☕ **Java 11 / 17**
+- ☕ **Java 17**
 - 🧱 **Spring Boot, Spring MVC, Spring Security, Spring Data**
-- 🗄️ **PostgreSQL, MySQL, MongoDB**
-- 🔧 **Hibernate, JPA**
-- 🔃 **REST, WebSockets, Kafka, RabbitMQ**
-- 🐳 **Docker, Docker Compose**
-- ☁️ **AWS, Heroku, GCP (basic)**
-- 🔐 **OAuth2, JWT, RBAC**
-- 🧪 **JUnit, Mockito, Testcontainers**
+- 🗄️ **PostgreSQL, MySQL**
 - 📦 **Maven, Gradle**
 - ⚙️ **CI/CD: GitHub Actions, GitLab CI**
 
