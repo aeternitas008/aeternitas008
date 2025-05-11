@@ -57,7 +57,10 @@ Here are some ideas to get you started:
 <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=aeternitas008&show_icons=true&theme=radical)](https://github.com/aeternitas008/github-readme-stats)  
 -->
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeternitas008&layout=compact&theme=radical)
+-->
+
 [![LeetCode Stats](https://leetcard.jacoblin.cool/aeternitas008?theme=dark&font=Cambo&ext=contest)](https://leetcode.com/aeternitas008)
 
 ---
