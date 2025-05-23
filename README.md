@@ -29,24 +29,26 @@ Here are some ideas to get you started:
 
 ## 📂 Projects
 
-### 🔹 [TaskFlow — Task Manager](https://github.com/aeternitas008/taskflow)
-> A minimalist Trello-like project management tool.
-- **Stack:** Spring Boot, PostgreSQL, Docker, JWT
-- Role-based authentication and authorization
-- Project and task management with full CRUD
-- RESTful API with Swagger documentation
+### 🔹 [Expense Tracker API](https://github.com/aeternitas008/ExpenseTrackerApi)
+> RESTful-сервис для учёта личных расходов.
+- **Stack:** Java, Spring Boot, PostgreSQL, JPA, JWT, Swagger
+- Сканирование и распознавание штрихкодов с использованием ML Kit
+- CRUD-операции для транзакций
+- Документация API через Swagger UI
+  
+### 🔹 [Inventory Manager](https://github.com/aeternitas008/InventoryManager)
+> Android-приложение для учёта товаров со сканированием штрихкодов.
+- **Stack:** Java, Android SDK, Google ML Kit, PostgreSQL, JDBC
+- Аутентификация и авторизация с помощью JWT
+- CRUD-операции через подключение к внешней базе PostgreSQL
+- Простой UI для взаимодействия с учётной системой
 
-### 🔹 [RealTime Chat App](https://github.com/aeternitas008/realtime-chat)
-> A real-time chat application with WebSocket support.
-- **Stack:** Java, Spring Boot, MongoDB, WebSockets, STOMP
-- Real-time messaging with channel subscriptions
-- Basic frontend built with Vue (or React)
-
-### 🔹 [DevResume Generator](https://github.com/aeternitas008/dev-resume-generator)
-> A customizable PDF resume generator for developers.
-- **Stack:** Spring Boot, Thymeleaf, iText
-- Dynamic layout generation via JSON config
-- Downloadable PDF resumes with themes
+### 🔹 [RealTime Chat Api](https://github.com/aeternitas008/RealtimeChatApi)
+> REST API и WebSocket-сервер для обмена сообщениями в реальном времени.
+- **Stack:** Java, Spring Boot, WebSocket (STOMP), MongoDB
+- Реализация публичных и приватных чатов с подпиской на каналы
+- Отправка и получение сообщений в реальном времени
+- Поддержка авторизации и хранения истории чатов в MongoDB
 
 ---
 <!--
