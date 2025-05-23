@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - CRUD-операции через подключение к внешней базе PostgreSQL
 - Простой UI для взаимодействия с учётной системой
 
-### 🔹 [RealTime Chat Api](https://github.com/aeternitas008/RealtimeChatApi)
+### 🔹 [RealTime Chat Api](https://github.com/aeternitas008/ChatApi)
 > REST API и WebSocket-сервер для обмена сообщениями в реальном времени.
 - **Stack:** Java, Spring Boot, WebSocket (STOMP), MongoDB
 - Реализация публичных и приватных чатов с подпиской на каналы
