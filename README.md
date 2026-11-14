@@ -1,72 +1,67 @@
-<!--
-Here are some ideas to get you started:
+# 👋 Hi, I'm Artur Salyahov
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Java backend developer who enjoys turning ideas into useful applications. I work mainly with Java and Spring, building REST APIs, working with databases, and making code easier to understand and maintain.
 
-# 👋 Hello, I'm Artur Salyahov
+I also have experience with Docker, Kubernetes, and OpenShift. I like understanding how an application works beyond the code — from local development to deployment.
 
-🎯 Java Backend Developer with experience building scalable, reliable, and high-performance web applications. I’m passionate about clean code, thoughtful architecture, and continuous learning.
+## 🛠️ Tech Stack
 
----
+- **Languages:** Java 17+
+- **Backend:** Spring Boot, Spring MVC, Spring Security, Spring Data JPA
+- **Databases:** PostgreSQL, MySQL
+- **Containers & Platforms:** Docker, Kubernetes, OpenShift
+- **Build Tools:** Maven, Gradle
+- **CI/CD:** GitHub Actions, GitLab CI
+- **API Documentation:** Swagger / OpenAPI
 
-## 🚀 Tech Stack
+## 📂 Selected Projects
 
-- ☕ **Java 17**
-- 🧱 **Spring Boot, Spring MVC, Spring Security, Spring Data**
-- 🗄️ **PostgreSQL, MySQL**
-- 📦 **Maven, Gradle**
-- ⚙️ **CI/CD: GitHub Actions, GitLab CI**
+### [Expense Tracker API](https://github.com/aeternitas008/ExpenseTrackerApi)
 
----
+A REST API for tracking personal expenses.
 
-## 📂 Projects
+- JWT authentication and authorization
+- Create, view, update, and delete transactions
+- Interactive API documentation with Swagger UI
 
-### 🔹 [Expense Tracker API](https://github.com/aeternitas008/ExpenseTrackerApi)
-> RESTful-сервис для учёта личных расходов.
-- **Stack:** Java, Spring Boot, PostgreSQL, JPA, JWT, Swagger
-- Аутентификация и авторизация с помощью JWT
-- CRUD-операции для транзакций
-- Документация API через Swagger UI
-  
-### 🔹 [Inventory Manager](https://github.com/aeternitas008/InventoryManager)
-> Android-приложение для учёта товаров со сканированием штрихкодов.
-- **Stack:** Java, Android SDK, Google ML Kit, PostgreSQL, JDBC
-- Сканирование и распознавание штрихкодов с использованием ML Kit
-- CRUD-операции через подключение к внешней базе PostgreSQL
-- Простой UI для взаимодействия с учётной системой
+**Built with:** Java, Spring Boot, PostgreSQL, JPA, JWT, Swagger
 
-### 🔹 [Shop Api](https://github.com/aeternitas008/ShopApi) (В разработке)
-> REST API сервис для реализации бизнес логики магазина.
-- **Stack:** Java, Spring: Boot, MVC, JPA, PostgreSQL, Maven, Open API 
-- Реализация основных сущностей: клиентов, поставщиков и продуктов с изображениями
-- Загрузка и хранение изображений
+### [Inventory Manager](https://github.com/aeternitas008/InventoryManager)
 
----
-## 📈 GitHub & LeetCode Stats
+An Android app for managing inventory with barcode scanning.
 
-## 📈 LeetCode Stats
+- Barcode scanning with Google ML Kit
+- Inventory management backed by an external PostgreSQL database
+- A simple interface for everyday inventory tasks
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aeternitas008&show_icons=true&theme=radical)](https://github.com/aeternitas008/github-readme-stats)  
+**Built with:** Java, Android SDK, Google ML Kit, PostgreSQL, JDBC
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeternitas008&show_icons=true&theme=vision-friendly-dark&layout=compact)
+### [Shop API](https://github.com/aeternitas008/ShopApi)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/aeternitas008?theme=dark&font=Cambo&ext=contest)](https://leetcode.com/aeternitas008)
+A REST API for managing a shop's core data and operations.
 
----
+- Manage customers, suppliers, and products
+- Upload and store product images
+- Explore API endpoints through OpenAPI documentation
 
-## 📫 Contact
+**Built with:** Java, Spring Boot, Spring MVC, Spring Data JPA, PostgreSQL, Maven, OpenAPI
 
-- Email: **aeternitas008@gmail.com**
-- Telegram: [@aeternitas008](https://t.me/aeternitas008)
+## 💬 Let's Talk About
 
----
+Java, Spring, REST API design, databases, or deploying applications with containers. I'm always happy to exchange ideas and learn how other developers approach a problem.
 
-> 🤝 Open to interesting projects, collaboration, or just a tech chat — feel free to reach out!
+## 📊 GitHub & LeetCode
+
+[![Artur's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeternitas008&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/aeternitas008)
+
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aeternitas008&layout=compact&theme=github_dark&hide_border=true)](https://github.com/aeternitas008?tab=repositories)
+
+[![LeetCode stats](https://leetcard.jacoblin.cool/aeternitas008?theme=dark&font=Ubuntu)](https://leetcode.com/aeternitas008/)
+
+## 📫 Get in Touch
+
+- **Email:** [aeternitas008@gmail.com](mailto:aeternitas008@gmail.com)
+- **Telegram:** [@aeternitas008](https://t.me/aeternitas008)
+- **LeetCode:** [aeternitas008](https://leetcode.com/aeternitas008/)
+
+Open to interesting projects, collaboration, and a good conversation about software. Feel free to say hello!
