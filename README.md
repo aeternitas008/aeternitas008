@@ -49,13 +49,6 @@ Here are some ideas to get you started:
 - Реализация основных сущностей: клиентов, поставщиков и продуктов с изображениями
 - Загрузка и хранение изображений
 
-### 🔹 [RealTime Chat Api](https://github.com/aeternitas008/ChatApi) (В разработке)
-> REST API и WebSocket-сервер для обмена сообщениями в реальном времени.
-- **Stack:** Java, Spring Boot, WebSocket (STOMP), MongoDB
-- Реализация публичных и приватных чатов с подпиской на каналы
-- Отправка и получение сообщений в реальном времени
-- Поддержка авторизации и хранения истории чатов в MongoDB
-
 ---
 ## 📈 GitHub & LeetCode Stats
 
